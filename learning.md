@@ -5,3 +5,6 @@
 ###   react教程 
 [github地址](https://github.com/theJian/build-a-hn-front-page)
 [一个人员管理（react）](http://blog.csdn.net/a153375250/article/details/52667739)
+
+###  sass教程
+[sass教程](https://speakerdeck.com/w3cplus/sassdai-lai-de-bian-ge),wscPlus大漠
