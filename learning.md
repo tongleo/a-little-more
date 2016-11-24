@@ -10,13 +10,13 @@
 [sass教程](https://speakerdeck.com/w3cplus/sassdai-lai-de-bian-ge),wscPlus大漠
 
 ### git 从远程仓库更新代码到本地仓库
-```git操作
 #### 1. git remote -v 
-2. eoecn   https://github.com/eoecn/android-app.git (fetch)
-3. eoecn   https://github.com/eoecn/android-app.git  (push)
-4. origin  https://github.com/com360/android-app.git  (fetch)
-5. origin  https://github.com/com360/android-app.git (push)
-6. su@SUCHANGLI /e/eoe_client/android-app (master)
+```git操作
+1. eoecn   https://github.com/eoecn/android-app.git (fetch)
+2. eoecn   https://github.com/eoecn/android-app.git  (push)
+3. origin  https://github.com/com360/android-app.git  (fetch)
+4. origin  https://github.com/com360/android-app.git (push)
+5. su@SUCHANGLI /e/eoe_client/android-app (master)
 ```
 从上面的结果可以看出，远程仓库有两个，一个是一个是eoecn，一个是origin
 
