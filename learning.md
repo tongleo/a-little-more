@@ -9,7 +9,10 @@
 ###  sass½Ì³Ì
 [sass½Ì³Ì](https://speakerdeck.com/w3cplus/sassdai-lai-de-bian-ge),wscPlus´óÄ®
 
+### git ¹ØÁªÔ¶³Ì²Ö¿â[Ô­Á´½Ó](http://www.jianshu.com/p/dcbb8baa6e36)
+
 ### git ´ÓÔ¶³Ì²Ö¿â¸üĞÂ´úÂëµ½±¾µØ²Ö¿â
+
 #### 1. git remote -v 
 ```git²Ù×÷
 1. eoecn   https://github.com/eoecn/android-app.git (fetch)
@@ -75,5 +78,4 @@ git fetch origin master:temp Õâ¾äÃüÁîµÄÒâË¼ÊÇ£º´ÓÔ¶³ÌµÄorigin²Ö¿âµÄmaster·ÖÖ§ÏÂÔ
 10 Èç¸´ÖÆ£¨yy£©Õ³Ìù£¨p) É¾³ı£¨d£©µÈµÈ
 ```
 Ö»ÊÇ£¬ÓÃwqµÄÊ±ºò£¬ÒªÏÈesc£¬È»ºó°´×¡shift¼ü£¬³öÏÖÏÂÃæÕâ¸ö½çÃæÊ±²Å¿ÉÒÔÊäÈëÃüÁî£º[Ô­ÎÄÁ´½Ó](http://www.cnblogs.com/macliu/p/6062917.html)
-
 
