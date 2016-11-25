@@ -81,3 +81,24 @@ git fetch origin master:temp Õâ¾äÃüÁîµÄÒâË¼ÊÇ£º´ÓÔ¶³ÌµÄorigin²Ö¿âµÄmaster·ÖÖ§ÏÂÔ
 
 ### webpack ½Ì³Ì
 [Á´½Ó](http://www.w2bc.com/Article/50764)
+### npmÃüÁî½éÉÜ
+npm½éÉÜ
+3.1¡¢ËµÃ÷£ºnpm£¨node package manager£©nodejsµÄ°ü¹ÜÀíÆ÷£¬ÓÃÓÚnode²å¼ş¹ÜÀí£¨°üÀ¨°²×°¡¢Ğ¶ÔØ¡¢¹ÜÀíÒÀÀµµÈ£©£»
+3.2¡¢Ê¹ÓÃnpm°²×°²å¼ş£ºÃüÁîÌáÊ¾·ûÖ´ĞĞnpm install <name> [-g] [--save-dev]£»
+3.2.1¡¢<name>£ºnode²å¼şÃû³Æ¡£Àı£ºnpm install gulp-less --save-dev
+3.2.2¡¢-g£ºÈ«¾Ö°²×°¡£½«»á°²×°ÔÚC:\Users\Administrator\AppData\Roaming\npm£¬²¢ÇÒĞ´ÈëÏµÍ³»·¾³±äÁ¿£»  ·ÇÈ«¾Ö°²×°£º½«»á°²×°ÔÚµ±Ç°¶¨Î»Ä¿Â¼£»  È«¾Ö°²×°¿ÉÒÔÍ¨¹ıÃüÁîĞĞÔÚÈÎºÎµØ·½µ÷ÓÃËü£¬±¾µØ°²×°½«°²×°ÔÚ¶¨Î»Ä¿Â¼µÄnode_modulesÎÄ¼ş¼ĞÏÂ£¬Í¨¹ırequire()µ÷ÓÃ£»
+3.2.3¡¢--save£º½«±£´æÅäÖÃĞÅÏ¢ÖÁpackage.json£¨package.jsonÊÇnodejsÏîÄ¿ÅäÖÃÎÄ¼ş£©£»
+3.2.4¡¢-dev£º±£´æÖÁpackage.jsonµÄdevDependencies½Úµã£¬²»Ö¸¶¨-dev½«±£´æÖÁdependencies½Úµã£»Ò»°ã±£´æÔÚdependenciesµÄÏñÕâĞ©express/ejs/body-parserµÈµÈ¡£
+3.2.5¡¢ÎªÊ²Ã´Òª±£´æÖÁpackage.json£¿ÒòÎªnode²å¼ş°üÏà¶ÔÀ´Ëµ·Ç³£ÅÓ´ó£¬ËùÒÔ²»¼ÓÈë°æ±¾¹ÜÀí£¬½«ÅäÖÃĞÅÏ¢Ğ´Èëpackage.json²¢½«Æä¼ÓÈë°æ±¾¹ÜÀí£¬ÆäËû¿ª·¢Õß¶ÔÓ¦ÏÂÔØ¼´¿É£¨ÃüÁîÌáÊ¾·ûÖ´ĞĞnpm install£¬Ôò»á¸ù¾İpackage.jsonÏÂÔØËùÓĞĞèÒªµÄ°ü£¬npm install --productionÖ»ÏÂÔØdependencies½ÚµãµÄ°ü£©¡£
+3.3¡¢Ê¹ÓÃnpmĞ¶ÔØ²å¼ş£ºnpm uninstall <name> [-g] [--save-dev]  PS£º²»ÒªÖ±½ÓÉ¾³ı±¾µØ²å¼ş°ü
+3.3.1¡¢É¾³ıÈ«²¿²å¼ş£ºnpm uninstall gulp-less gulp-uglify gulp-concat ¡­¡­???Ì«Âé·³
+3.3.2¡¢½èÖúrimraf£ºnpm install rimraf -g ÓÃ·¨£ºrimraf node_modules
+3.4¡¢Ê¹ÓÃnpm¸üĞÂ²å¼ş£ºnpm update <name> [-g] [--save-dev]
+3.4.1¡¢¸üĞÂÈ«²¿²å¼ş£ºnpm update [--save-dev]
+3.5¡¢²é¿´npm°ïÖú£ºnpm help
+3.6¡¢µ±Ç°Ä¿Â¼ÒÑ°²×°²å¼ş£ºnpm list
+PS£ºnpm°²×°²å¼ş¹ı³Ì£º´Óhttp://registry.npmjs.orgÏÂÔØ¶ÔÓ¦µÄ²å¼ş°ü£¨¸ÃÍøÕ¾·şÎñÆ÷Î»ÓÚ¹úÍâ£¬ËùÒÔ¾­³£ÏÂÔØ»ºÂı»ò³öÏÖÒì³££©£¬½â¾ö°ì·¨ÍùÏÂ¿´cnpm¡£
+
+### Browsersync
+[Browsersync](http://www.browsersync.cn/)
+[Browsersync + Gulp.js - BrowsersyncÖĞÎÄÍø](http://www.browsersync.cn/docs/gulp/)
