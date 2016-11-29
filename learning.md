@@ -79,6 +79,9 @@ git fetch origin master:temp Õâ¾äÃüÁîµÄÒâË¼ÊÇ£º´ÓÔ¶³ÌµÄorigin²Ö¿âµÄmaster·ÖÖ§ÏÂÔ
 ```
 Ö»ÊÇ£¬ÓÃwqµÄÊ±ºò£¬ÒªÏÈesc£¬È»ºó°´×¡shift¼ü£¬³öÏÖÏÂÃæÕâ¸ö½çÃæÊ±²Å¿ÉÒÔÊäÈëÃüÁî£º[Ô­ÎÄÁ´½Ó](http://www.cnblogs.com/macliu/p/6062917.html)
 
+[gitÏêÏ¸½Ì³Ì](http://www.yiibai.com/git/git_update_operation.html)
+
+
 ### webpack ½Ì³Ì
 [Á´½Ó](http://www.w2bc.com/Article/50764)
 ### npmÃüÁî½éÉÜ
@@ -102,3 +105,7 @@ PS£ºnpm°²×°²å¼ş¹ı³Ì£º´Óhttp://registry.npmjs.orgÏÂÔØ¶ÔÓ¦µÄ²å¼ş°ü£¨¸ÃÍøÕ¾·şÎñÆ÷Î»
 ### Browsersync
 [Browsersync](http://www.browsersync.cn/)
 [Browsersync + Gulp.js - BrowsersyncÖĞÎÄÍø](http://www.browsersync.cn/docs/gulp/)
+
+
+
+[¹È¸è¿çÓò²å¼ş](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
