@@ -87,6 +87,7 @@ git fetch origin master:temp Õâ¾äÃüÁîµÄÒâË¼ÊÇ£º´ÓÔ¶³ÌµÄorigin²Ö¿âµÄmaster·ÖÖ§ÏÂÔ
 [webpack ¿´ÕâÆª¾Í¹»ÁË](http://blog.csdn.net/kun5706947/article/details/52596766)
 ### npmÃüÁî½éÉÜ
 npm½éÉÜ
+```
 3.1¡¢ËµÃ÷£ºnpm£¨node package manager£©nodejsµÄ°ü¹ÜÀíÆ÷£¬ÓÃÓÚnode²å¼ş¹ÜÀí£¨°üÀ¨°²×°¡¢Ğ¶ÔØ¡¢¹ÜÀíÒÀÀµµÈ£©£»
 3.2¡¢Ê¹ÓÃnpm°²×°²å¼ş£ºÃüÁîÌáÊ¾·ûÖ´ĞĞnpm install <name> [-g] [--save-dev]£»
 3.2.1¡¢<name>£ºnode²å¼şÃû³Æ¡£Àı£ºnpm install gulp-less --save-dev
@@ -102,6 +103,7 @@ npm½éÉÜ
 3.5¡¢²é¿´npm°ïÖú£ºnpm help
 3.6¡¢µ±Ç°Ä¿Â¼ÒÑ°²×°²å¼ş£ºnpm list
 PS£ºnpm°²×°²å¼ş¹ı³Ì£º´Óhttp://registry.npmjs.orgÏÂÔØ¶ÔÓ¦µÄ²å¼ş°ü£¨¸ÃÍøÕ¾·şÎñÆ÷Î»ÓÚ¹úÍâ£¬ËùÒÔ¾­³£ÏÂÔØ»ºÂı»ò³öÏÖÒì³££©£¬½â¾ö°ì·¨ÍùÏÂ¿´cnpm¡£
+```
 
 ### Browsersync
 [Browsersync](http://www.browsersync.cn/)
