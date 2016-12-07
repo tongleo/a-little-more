@@ -14,6 +14,7 @@
 [阮一峰个人网站](http://es6.ruanyifeng.com/)
 
 ####es6模块化的基本规则或特点
+[原文链接](http://www.cnblogs.com/diligenceday/p/5503777.html)
 ```
 ES6的模块化的基本规则或特点， 欢迎补充：
 
@@ -129,3 +130,6 @@ PS：npm安装插件过程：从http://registry.npmjs.org下载对应的插件包（该网站服务器位
 
 
 [谷歌跨域插件](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi)
+
+### webstrome ftp设置
+![webstrome ftp设置](http://a3.qpic.cn/psb?/V10frlP64IFXBw/Jo7AZKqvoemQu2bLZ6uUdrQRCxXpLF6K*hFqtIeYwP8!/b/dHwBAAAAAAAA&bo=9AKAAgAAAAAFAFc!&rf=viewer_4)   ![webstrome ftp设置](http://a2.qpic.cn/psb?/V10frlP64IFXBw/hAY6r9AYtI0CvlX8yDrsv1htdWfs0zShf8xfGR.7M4k!/b/dMcAAAAAAAAA&bo=9AKAAgAAAAABB1Q!&rf=viewer_4)
